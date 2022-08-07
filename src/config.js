@@ -13,7 +13,7 @@ port:10050 ,
 secure: true,
  },
    { 
-identifier: 'NODE-MAIN-1', 
+identifier: 'NODE-MAIN-3', 
 host: 'n1.lavalink.milrato.com', password: 'discord.gg/milrato', 
 port:10450 , 
 secure: true,
