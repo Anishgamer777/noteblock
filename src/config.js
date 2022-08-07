@@ -1,12 +1,9 @@
 module.exports = {
   owners: [],
-  nodes: [{
-    identifier: 'NODE-MAIN-2',
-    host: 'lavalink-repl.ahmasa.repl.co',
-    password: 'youshallnotpass',
-    port: 443,
-    secure: true,
-  }],
-  prefix: 'nb!',
-  updateSlash: false,
+  nodes: [{ 
+    identifier: 'NODE-MAIN-2', 
+    host: 'n1.lavalink.milrato.com'
+  , password: 'discord.gg/milrato, port:10150 , secure: true, }],
+  prefix: '?',
+  updateSlash: true,
 };
