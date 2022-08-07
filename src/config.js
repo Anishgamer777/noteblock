@@ -5,7 +5,19 @@ module.exports = {
     host: 'n1.lavalink.milrato.com'
   , password: 'discord.gg/milrato',
     port:10150 ,
-    secure: true, }],
+    secure: true, },
+         { 
+identifier: 'NODE-MAIN-1', 
+host: 'n1.lavalink.milrato.com', password: 'discord.gg/milrato', 
+port:10050 , 
+secure: true,
+ },
+   { 
+identifier: 'NODE-MAIN-1', 
+host: 'n1.lavalink.milrato.com', password: 'discord.gg/milrato', 
+port:10450 , 
+secure: true,
+ }      ],
   prefix: '?',
   updateSlash: true,
 };
